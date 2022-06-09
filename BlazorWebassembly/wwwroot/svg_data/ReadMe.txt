@@ -1,0 +1,1 @@
+.svg image done with free available draw.io editor
